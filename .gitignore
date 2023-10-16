@@ -1,0 +1,7 @@
+catboost_info
+outputs
+
+*.csv
+*.pkl
+*.pt
+*.png
